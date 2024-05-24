@@ -1,5 +1,17 @@
 # Automated Waste Classification System
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Motivation and Impact](#motivation-and-impact)
+3. [Data Processing](#data-processing)
+4. [Models Used](#models-used)
+    - [Multilayer Perceptron (MLP)](#1-multilayer-perceptron-mlp)
+    - [Vision Transformer (ViT)](#2-vision-transformer-vit)
+    - [Convolutional Neural Network (CNN)](#3-convolutional-neural-network-cnn)
+5. [Combined Results](#combined-results)
+6. [Conclusion](#conclusion)
+7. [References](#references)
+
 ## Introduction
 
 This project aims to address the urgent environmental and health challenges posed by current waste management practices by implementing an automated waste classification system. By utilizing advanced machine learning techniques, our system effectively differentiates waste types, promoting recycling, protecting nature, and fostering a sustainable future.
